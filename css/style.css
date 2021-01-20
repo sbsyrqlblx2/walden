@@ -201,8 +201,6 @@ figure figcaption {
   transform: scaleX(1);
 }
 #Walden-aside .Walden-profile {
-  position: absolute;
-  bottom: 80px;
   font-size: 14px;
   text-align: center;
   width: 100%;
@@ -210,8 +208,6 @@ figure figcaption {
   color: rgba(0, 0, 0, 0.6);
 }
 #Walden-aside .Walden-footer {
-  position: absolute;
-  bottom: 40px;
   font-size: 14px;
   text-align: center;
   width: 100%;
