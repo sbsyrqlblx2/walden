@@ -12,7 +12,8 @@
 *
 * ======================================================= */
 body {
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif; 
+  /* 这是控制about 那个页面的字体，目前没有找到单独控制某页文字的代码，后面再学 */
   font-weight: 300;
   font-size: 16px;
   line-height: 1.6;
